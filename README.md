@@ -7,3 +7,5 @@ Personal Linux system configs, scripts and hacks from MichaIng DietPi OS
 # Hacks
 
 Persönliche Linux-Systemkonfigurationen, Skripte und Hacks von MichaIng DietPi OS
+
+[MichaIng GitHub](https://github.com/MichaIng)
